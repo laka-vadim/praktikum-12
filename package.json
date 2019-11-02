@@ -1,0 +1,24 @@
+{
+  "name": "praktikum-12",
+  "version": "1.0.0",
+  "description": "Яндекс.Практикум. Практическая работа 12.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laka-vadim/praktikum-12.git"
+  },
+  "author": "Vadim Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laka-vadim/praktikum-12/issues"
+  },
+  "homepage": "https://github.com/laka-vadim/praktikum-12#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
